@@ -19,6 +19,5 @@ public class digitsOfNumber{
             System.out.println(digit);
             rev = rev/10;
         }
-        sc.close();
     }
 }
